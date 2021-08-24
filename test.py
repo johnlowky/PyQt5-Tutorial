@@ -11,7 +11,7 @@ def main():
                                           [sg.Yes(), sg.No()]]).read(close=True)[0] == "Yes":
                 print("User chose yes!")
             else:
-                print("User chose no!")
+                print("User chose 111no!")
         
     window.close()
 if __name__ == "__main__":
